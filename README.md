@@ -3,6 +3,9 @@
 [![V Version](https://img.shields.io/badge/V-0.4.0-blue.svg)](https://vlang.io)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://vwebx.github.io/docs)
+[![GitHub Stars](https://img.shields.io/github/stars/LowLeery/vwebx?style=social)](https://github.com/LowLeery/vwebx/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/LowLeery/vwebx?style=social)](https://github.com/LowLeery/vwebx/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/LowLeery/vwebx)](https://github.com/LowLeery/vwebx/issues)
 
 A modern, fast, and flexible web framework for the V programming language.
 
