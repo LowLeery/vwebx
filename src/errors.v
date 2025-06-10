@@ -1,4 +1,4 @@
-module LowLeery.vwebx
+module vwebx
 
 // HTTP hata kodları
 pub const (
