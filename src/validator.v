@@ -1,4 +1,4 @@
-module LowLeery.vwebx
+module vwebx
 
 import regex
 import time
