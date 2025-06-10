@@ -1,0 +1,25 @@
+<h1>{{title}}</h1>
+<p>This is a simple example application with middleware support.</p>
+
+<div class="endpoint">
+    <h3>Available Endpoints:</h3>
+    <ul>
+        <li><code>GET /</code> - This page</li>
+        <li><code>GET /api/hello</code> - JSON API endpoint</li>
+        <li><code>GET /text</code> - Plain text response</li>
+        <li><code>GET /query?name=value</code> - Query parameter demo</li>
+        <li><code>POST /api/users</code> - Create user</li>
+        <li><code>GET /api/users</code> - List users</li>
+        <li><code>GET /api/users/:id</code> - Get user</li>
+        <li><code>PUT /api/users/:id</code> - Update user</li>
+        <li><code>DELETE /api/users/:id</code> - Delete user</li>
+    </ul>
+</div>
+
+<div class="query-demo">
+    <h3>Try Query Parameters:</h3>
+    <p>Add <code>?name=yourname</code> to any URL to see it in action!</p>
+    <p>{{greeting}}</p>
+</div>
+
+<p>Check the console for request logs!</p> 
