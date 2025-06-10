@@ -60,7 +60,7 @@ fn main() {
 
 ## Documentation
 
-For detailed documentation, visit [vwebx.github.io/docs](https://vwebx.github.io/docs)
+For detailed documentation, visit [https://lowleery.github.io/vwebx](https://lowleery.github.io/vwebx/#docs)
 
 ### API Reference
 
