@@ -4,9 +4,7 @@ Module {
     version: '0.1.0'
     license: 'MIT'
     author: 'VWebX Contributors'
-    repo_url: 'https://github.com/vwebx/vwebx'
-    vcs: 'git'
+    repo_url: 'https://github.com/LowLeery/vwebx'
     tags: ['web', 'http', 'server', 'framework', 'api', 'rest', 'json', 'sqlite']
-    dependencies: ['db.sqlite']
     readme: 'README.md'
-} 
+}
