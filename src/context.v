@@ -1,4 +1,4 @@
-module vwebx
+module LowLeery.vwebx
 
 import net
 import net.http
